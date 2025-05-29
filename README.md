@@ -52,5 +52,7 @@ Gradient Boosting achieved the highest performance with **R² = 0.9969** and **M
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/esg-financial-stability.git
-   cd esg-financial-stability
+   git clone https://github.com/Aishuwu/Comparative-Analysis-of-Models-for-Prediction-of-Financial-Stability-Using-ESG-Scores.git
+   cd Comparative-Analysis-of-Models-for-Prediction-of-Financial-Stability-Using-ESG-Scores
+
+
