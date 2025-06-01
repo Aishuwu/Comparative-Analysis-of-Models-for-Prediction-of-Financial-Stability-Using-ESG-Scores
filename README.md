@@ -31,7 +31,7 @@ This project presents a machine learning framework for predicting corporate fina
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/financial-stability-esg.git
+   git clone https://github.com/Aishuwu/financial-stability-esg.git
    cd financial-stability-esg
    ```
 
